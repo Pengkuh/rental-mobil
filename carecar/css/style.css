@@ -1,0 +1,35 @@
+html {
+  scroll-behavior: smooth;
+}
+body {
+  background-color: #f0f0f0;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  box-sizing: border-box;
+  margin: 0px;
+}
+
+section {
+  margin: auto;
+  padding-top: 100px;
+}
+
+.heroimg {
+  margin-bottom: 40px;
+  margin: auto;
+  background-image: url('../3.png');
+  background-color: #1c1c1c;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  border-radius: 50%;
+  width: 370px;
+  height: 370px;
+  border-left: 5px solid #1c1c1c;
+}
+
+input {
+  background-color: #f8f6f6;
+  border: 1px solid #d0d0d0;
+  height: 40px;
+  width: 80%;
+}
